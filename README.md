@@ -1,3 +1,29 @@
+# FastCode
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+"FastCode: Accelerating and Streamlining Your Code Understanding"
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+FastCode：加速并简化代码理解。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <img src="assets/FastCode.svg" alt="FastCode Logo" width="200"/>
